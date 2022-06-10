@@ -1,0 +1,41 @@
+#header h1{
+  /*width: 800px;*/
+    margin: auto;
+    color: red;
+}
+#nav h1{
+    color: blueviolet;    
+}
+#section h1{
+    color: orange;
+}
+#aside span{
+    width: 200px;
+    float: left;
+    background: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#wrap{
+    width: 800px;
+    margin: auto;
+    overflow: hidden;
+}
+
+#content{
+    width: 600px;
+    float: left;
+    background: green;
+}
